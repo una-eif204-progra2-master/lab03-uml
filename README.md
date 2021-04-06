@@ -16,7 +16,7 @@ The student will create:
 
 ## Tools recommended for the design
 
-- http://staruml.io/
+- https://www.bouml.fr/
 - https://www.lucidchart.com/
 
 
